@@ -45,3 +45,50 @@ Experiment No: 1 | Question No: 8
 [1] "City Center"
 [1] 30.2
 [1] TRUE
+Experiment No: 2 | Question No: 1
+[1] "Eligible for Loan"
+
+Experiment No: 2 | Question No: 2
+[1] "Not Eligible for Exam"
+
+Experiment No: 2 | Question No: 3
+[1] "Discount Applied"
+
+Experiment No: 2 | Question No: 4
+[1] "Low Usage"
+
+Experiment No: 2 | Question No: 5
+[1] "Not Eligible for Bonus"
+
+Experiment No: 2 | Question No: 6
+[1] "Invalid Password"
+
+Experiment No: 2 | Question No: 7
+[1] "Extreme Temperature Warning"
+
+Experiment No: 2 | Question No: 8
+[1] "Fail"
+
+Experiment No: 2 | Question No: 9
+[1] "Credit Card Rejected"
+
+Experiment No: 2 | Question No: 10
+[1] "Medium Risk"
+
+Experiment No: 2 | Question No: 11
+[1] "Long Green Signal"
+
+Experiment No: 2 | Question No: 12
+[1] "Not Eligible for Appraisal"
+
+Experiment No: 2 | Question No: 13
+[1] "Exam Disqualified"
+
+Experiment No: 2 | Question No: 14
+[1] "Normal Pricing"
+
+Experiment No: 2 | Question No: 15
+[1] "Machine Running Normally"
+
+Experiment No: 2 | Question No: 16
+[1] "Admission Rejected"
