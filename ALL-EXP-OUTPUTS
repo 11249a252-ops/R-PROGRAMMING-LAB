@@ -139,3 +139,65 @@ Experiment No: 3 | Question No: 15
 
 Experiment No: 3 | Question No: 16
 [1] "High Usage"
+
+Experiment No: 4 | Question No: 1
+  RollNo  Name Dept Marks
+1    201  Arun  CSE    70
+2    202 Divya  ECE    82
+3    203 Kiran   IT    91
+
+  RollNo  Name Dept Marks
+1    201  Arun  CSE    70
+2    202 Divya  ECE    82
+3    203 Kiran   IT    91
+4    204 Sneha  CSE    88
+
+
+Experiment No: 4 | Question No: 2
+  EmpID Name    Dept Salary
+1    11  Raj      HR  30000
+2    12 Neha      IT  45000
+3    13 Amit Finance  50000
+
+  EmpID  Name    Dept Salary
+1    11   Raj      HR  30000
+2    12  Neha      IT  45000
+3    13  Amit Finance  50000
+4    14 Pooja      IT  47000
+
+
+Experiment No: 4 | Question No: 3
+  PatientID   Name Age  Cost
+1       301 Suresh  50 10000
+2       302  Latha  40 12000
+
+  PatientID   Name Age  Cost
+1       301 Suresh  50 10000
+2       302  Latha  40 12000
+3       303  Arjun  45 15000
+
+
+Experiment No: 4 | Question No: 4
+  ProductID ProductName Quantity
+1         1         Pen       80
+2         2        Book       60
+3         3         Bag       40
+
+  ProductID ProductName Quantity
+1         1         Pen       80
+2         2        Book       60
+3         3         Bag       40
+4         4      Bottle       70
+
+
+Experiment No: 4 | Question No: 5
+  RollNo  Name Dept Sem1 Sem2 Attendance
+1      1  Ravi  CSE   75   78         90
+2      2 Meena  ECE   80   82         85
+3      3  Arun   IT   85   88         92
+
+  RollNo  Name Dept Sem1 Sem2 Attendance
+1      1  Ravi  CSE   75   78         90
+2      2 Meena  ECE   80   82         85
+3      3  Arun   IT   85   88         92
+4      4 Kavya  CSE   88   90         95
